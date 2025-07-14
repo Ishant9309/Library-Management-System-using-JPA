@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple Java console-based application to manage books using JPA and Hibernate (6.x) with PostgreSQL.
+A simple Java console-based application to manage books using JPA and Hibernate (6.4.4) with PostgreSQL.
 
 ---
 
@@ -20,7 +20,7 @@ A simple Java console-based application to manage books using JPA and Hibernate 
 - Java (JDK 21+)
 - PostgreSQL
 - JPA
-- Hibernate 6.x
+- Hibernate 6.4.4
 - Maven
 
 ---
